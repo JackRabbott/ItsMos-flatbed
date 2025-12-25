@@ -2,7 +2,6 @@
 
 ![Preview](https://media.giphy.com/media/Li9ppvZtHRwzdypJWR/giphy.gif)
 
-Contributions and bug reports are welcome, dont forget to credit the author/s.
+Originally created by ItsMos and tested on 1.1.
 
-##### For donations
-[![paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)](https://paypal.me/hopelessfoolmos?locale.x=en_US)
+To be modified and adapted into source for RCNR
